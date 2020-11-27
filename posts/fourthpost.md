@@ -1,5 +1,5 @@
 ---
-title: Trump vs Biden: Will the Future Belong to the Patriots or the Globalists?
+title: Trump vs Biden&colon; Will the Future Belong to the Patriots or the Globalists?
 description: It is an undeniable fact that the republic has entered one of the most dangerous crises of its short existence. This is not only due to the disputed election results of November 3rd, but also to a multitude of other factors beyond American borders, including the global financial crisis which a certain pandemic has unleashed upon the world, and slide towards a major world war between great powers that has accelerated chaotically in recent years.
 date: November 19, 2020
 author: Matthew Ehret
@@ -7,7 +7,7 @@ tags: second-tag
 layout: layouts/post.njk
 ---
 
-<!--![alt text](/img/trump-vs-biden-will-the-future-belong-to-the-patriots-or-the-globalists.jpg "Logo Title Text 1")-->
+![alt text](/img/trump-vs-biden-will-the-future-belong-to-the-patriots-or-the-globalists.jpg "Logo Title Text 1")
 
 
 
