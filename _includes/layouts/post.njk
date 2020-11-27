@@ -4,7 +4,8 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 <h4>{{ description }}</h4>
-<p>{{ author }}</p>
+<p>by {{ author }} on {{ date }}</p>
+<figure>{{ feature }}</figure>
 
 {{ content | safe }}
 
