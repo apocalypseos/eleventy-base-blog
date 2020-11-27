@@ -1,3 +1,4 @@
+@import url('reset.css');
 @import url('https://fonts.googleapis.com/css2?family=Texturina:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&display=swap');
 
@@ -164,10 +165,11 @@ pre {
 
 /* Nav */
 .nav {
-  padding: 0;
-  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   margin-left: 1em;
-  background: white;
+  background: lightblue;
 }
 
 .nav-item {
