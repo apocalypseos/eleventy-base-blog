@@ -356,6 +356,12 @@ a[href].direct-link:focus:visited,
 }
 
 
+.feature {
+  padding: 1em;
+  background: hotpink;
+  border: 2px solid black;
+}
+
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
 
