@@ -122,6 +122,7 @@ main :first-child {
   margin-top: 0;
 }
 
+
 header {
   display: flex;
   flex-direction: row;
@@ -209,12 +210,20 @@ pre {
 }
 
 /* Header */
-.home {
+
+.branding {
   padding: 0 1rem;
-  margin: 1rem 0;
+  width: 60%;
+}
+
+.home {
   font-size: 1.75em;
-  background: white;
-  width: 50%;
+}
+
+.description {
+  font-family: 'Lekton', sans-serif;
+  font-size: 1.777rem;
+  margin: 0;
 }
 
 .home :link:not(:hover) {
@@ -228,7 +237,7 @@ pre {
   justify-content: space-between;
   margin-left: 1em;
   background: lightblue;
-  width: 50%;
+  width: 20%;
   text-align: right;
 }
 
