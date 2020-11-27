@@ -7,7 +7,7 @@ tags: second-tag
 layout: layouts/post.njk
 ---
 
-![alt text](/img/trump-vs-biden-will-the-future-belong-to-the-patriots-or-the-globalists.jpg "Logo Title Text 1")
+<!--![alt text](/img/trump-vs-biden-will-the-future-belong-to-the-patriots-or-the-globalists.jpg "Logo Title Text 1")-->
 
 
 
