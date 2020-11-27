@@ -4,7 +4,7 @@ description: It is an undeniable fact that the republic has entered one of the m
 author: Matthew Ehret
 date: 2020-09-19
 tags: second-tag
-feature: ![alt text](/img/trump-vs-biden-will-the-future-belong-to-the-patriots-or-the-globalists.jpg "Logo Title Text 1")
+feature: /img/trump-vs-biden-will-the-future-belong-to-the-patriots-or-the-globalists.jpg
 layout: layouts/post.njk
 ---
 
