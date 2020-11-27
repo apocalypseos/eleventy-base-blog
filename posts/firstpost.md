@@ -7,23 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-# Heading level 1
-
-## Heading level 2
-
-### Heading level 3
-
-#### Heading level 4
-
-##### Heading level 5
-
-###### Heading level 6
-
-I just love **bold text**.
-I just love __bold text__.
-
-
-About twenty years ago The Atlantic published a piece by Jeffrey Tayler named “Russia is finished” subtitled “The unstoppable descent of a once great power into social catastrophe and strategic irrelevance.” Not a very successful prediction was it? But what he did was fashionable at the time – he described what was happening in Russia in the nineties and made a straight-line projection from there. His error was assuming the continuation of the straight line – and he made the error because he thought Russia was only “Zaire With Permafrost”.
+About twenty years ago The Atlantic published a piece by Jeffrey Tayler named “<a href="https://www.theatlantic.com/magazine/archive/2001/05/russia-is-finished/302220/">Russia is finished</a>” subtitled “The unstoppable descent of a once great power into social catastrophe and strategic irrelevance.” Not a very successful prediction was it? But what he did was fashionable at the time – he described what was happening in Russia in the nineties and made a straight-line projection from there. His error was assuming the continuation of the straight line – and he made the error because he thought Russia was only “Zaire With Permafrost”.
 
 My purpose in this essay is to apply the points that the author made about Russia twenty years ago to the United States of America today and adopt a simple straight-line projection based on a corresponding view of American history. This is not so much because I think that America really is finished – after all, as Adam Smith observed, there is a great deal of ruin in a nation, and America has seen hard times before – but in order to illustrate the perilous position America is in today. As the author of the Atlantic piece must now understand, straight-line predictions are always risky because – as happened in Russia – other forces can appear to change the “unstoppable descent”. But a straight-line prediction from the American situation as of the autumn of 2020 does point to an “unstoppable descent” into “social catastrophe and strategic irrelevance”.
 
@@ -47,40 +31,46 @@ This is what might be called the Richard Pipes take on Russia. Let us consider w
 
 Now the Pipes and Zinn views are not false, but they are partial. Russia is not nothing but a brutal dysfunctional dictatorship, it has its Father Zosimas too. Neither is America just a brutal, dysfunctional plutocracy, it has its spiritual values too. But, just as Tayler took a Pipes view of Russia, we will in what follows take a Zinn view of America. And just as Russia’s future turned out to be much better than Tayler/Pipes foresaw, let us hope that America’s future is better also. We will take the points Tayler makes about Russia, apply them to America and project the future from that point through Zinn’s perspective and see what we get.
 
-Russian oligarchs.
+## Russian oligarchs.
+
 the oligarchs rose to prominence not by building railroads and industries but by exploiting antiquated pricing systems, disorganized legal codes, and—most important—Soviet-era connections with the government.
 
 The three richest men in America today – owning, it is said, as much as half the population – did not gain their wealth by railroads or industries; one runs a mail order store, one a software company and one is a speculator. The Forbes 400 are worth more than almost two-thirds of the country and COVID has made them even richer while, for the others, unemployment skyrockets. Not surprisingly, a 2014 study found that these plutocrats dominate the so-called democracy. “When a majority of citizens disagrees with economic elites and/or with organized interests, they generally lose.” All rather Zinnish, isn’t it? Difficult to see that trend ending by itself.
 
-Russian contempt for politicians.
+## Russian contempt for politicians.
+
 When Russians talk of their politicians, they frequently speak of “thieves,” “bandits,” and “swindlers”…
 
 A recent Pew poll on American attitudes to their government shows similar disgust
 
 Even larger majorities say the country is not performing well when it comes to the government being open and transparent (69% say this does not describe the country well), the tone of political debate being respectful (72%), people agreeing on basic facts even if they disagree politically (72%), elected officials facing serious consequences for misconduct (73%) and that campaign contributions do not lead to greater political influence (also 73%).
 
-Russian military failure.
+## Russian military failure.
+
 One of the most spectacular elements of the Soviet Union’s collapse has been Russia’s fall from military superpower No. 2 to a country whose army can be neutralized by bands of irregulars fighting with little more than the weapons on their backs.
 
 No need to belabor this point – two decades in Afghanistan says it all.
 
-Squandering wealth on weaponry.
+## Squandering wealth on weaponry.
+
 Putin would do well to recall that high defense spending helped to bring about the demise of the Soviet Union.
 
 Enough said – more, more and still more.
 
-Russian population decline.
+## Russian population decline.
+
 Over the past decade Russia’s population has been shrinking by almost a million a year, owing to a plummeting birth rate and a rising number of deaths from alcoholism and violence. Predictions are astonishingly grave: the country could lose a third of its population (now 146 million) by the middle of the century. This does not factor in new scourges—tuberculosis and HIV, in particular, which have been spreading exponentially since 1998.
 
 America’s birthrate is now falling and deaths from opioid overdoses and suicides are rising.
 
 Taking Tayler’s points one after another and comparing Russia with America today, we see it’s not Russia that’s looking bad in 2020.
 
-Oligarchs are losing power in Russia but gaining it in America.
-Confidence in government is rising in Russia but falling in America.
-Russia’ military achievements are rising while America’s are falling.
-Russia’s military expenditure is falling but America’s keeps rising.
-Russian population is stabilizing while America’s is starting to fall.
+- Oligarchs are losing power in Russia but gaining it in America.
+- Confidence in government is rising in Russia but falling in America.
+- Russia’ military achievements are rising while America’s are falling.
+- Russia’s military expenditure is falling but America’s keeps rising.
+- Russian population is stabilizing while America’s is starting to fall.
+
 And we haven’t been nearly as negative about America’s future as we could have been. With the talk about ignoring the results of November’s elections, how close are we to civil war? Is there really a possibility of a coup d’état? There’s certainly talk of it. There already is a considerable amount of street violence in America now, how much worse will it get? What will the final effects of COVID be? Certainly not an increase in confidence about the American can-do spirit or competence. How many people unemployed by COVID will ever work again? How big can the budget deficit get before it all bursts? Can the US ever get its manufacturing dominance back? What happens to the “American Dream” as most people get poorer while a few become ludicrously rich – here’s a RAND study to put a number on the four-decade trend – trillions and trillions.
 
 Tayler was extremely wrong in his estimation of Putin as many others were, seeing nothing but KGB.
