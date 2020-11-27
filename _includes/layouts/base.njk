@@ -12,7 +12,10 @@
   </head>
   <body>
     <header>
+      <div class="branding">
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <h5>{{ metadata.description }}</h5>
+      </div>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
@@ -27,7 +30,7 @@
       {{ content | safe }}
     </main>
 
-    <footer></footer>
+    <footer>Footer</footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
