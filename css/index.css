@@ -115,7 +115,7 @@ a[href]:visited {
 
 main {
   padding: 1rem;
-  max-width: 80%;
+  max-width: 100%;
 }
 
 main :first-child {
@@ -125,7 +125,7 @@ main :first-child {
 
 header {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
   background: #ccc;
   border-bottom: 1px dashed var(--lightgray);
@@ -353,4 +353,23 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+
+  header {
+    flex-direction: row;
+  }
+
+  .branding {
+    padding: 0 1rem;
+    width: 100%;
+  }
+
+  main {
+    max-width: 80%;
+  }
+
 }
