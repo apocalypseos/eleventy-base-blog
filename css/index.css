@@ -119,6 +119,13 @@ a[href]:visited {
 
 
 /* Layout Styles */
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+
+}
 
 header,
 aside,

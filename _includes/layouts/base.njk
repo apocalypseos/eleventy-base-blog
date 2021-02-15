@@ -24,7 +24,7 @@
       {%- endfor %}
       </ul>
     </header>
-    
+      <div class="wrapper">
     <aside>
       <h2>Menu</h2>
       <p></p>
@@ -34,8 +34,13 @@
 
       {{ content | safe }}
     </main>
-
-    <footer>Footer</footer>
+</div>
+    <footer>
+    <ul>
+    <li><h3>Heading</h3></li>
+    <li><h3>Heading</h3></li>
+    <li><h3>Heading</h3></li></ul>
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
