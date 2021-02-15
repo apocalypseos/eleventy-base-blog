@@ -232,14 +232,19 @@ pre {
   width: 60%;
 }
 
+
+
+/* Site Title & Description */
 .home {
-  font-size: 1.75em;
+  font-size: 4em;
+  font-family: 'Suez One', serif;
+  margin-bottom: 0.25em;
 }
 
 .description {
-  font-family: 'Lekton', sans-serif;
-  font-size: 1.777rem;
-  margin: 0;
+  font-size: 3em;
+  font-family: 'Suez One', serif;
+  margin-bottom: 0.25em;
 }
 
 .home :link:not(:hover) {
