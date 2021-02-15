@@ -129,6 +129,14 @@ a[href]:hover {
   text-decoration: underline;
 }
 
+.home a {
+  color: black;
+}
+
+.home a:hover {
+  text-decoration: none;
+}
+
 ::selection {
   color: var(--yellow);
 }
