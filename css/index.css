@@ -121,10 +121,25 @@ a[href]:visited {
 /* Layout Styles */
 
 header,
+aside,
 main,
 footer {
   padding: 3rem;
 }
+
+aside {
+  width: 40vw;
+  height: auto;
+  color: white;
+
+}
+
+main {
+  width: 60vw;
+  min-height: 800vh;
+
+}
+
 
 main {
   max-width: 100%;
