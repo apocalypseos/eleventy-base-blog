@@ -138,7 +138,10 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: #ccc;
+  background-image: linear-gradient(-225deg,
+    #cf3a00 0%,
+    #eb3714 50%,
+    #830400 100%);
   border-bottom: 1px dashed var(--lightgray);
 }
 
@@ -229,7 +232,6 @@ pre {
 
 .branding {
   padding: 0 1rem;
-  width: 60%;
 }
 
 
@@ -336,9 +338,9 @@ pre {
   padding: 2px 4px;
   margin-left: 0.8em;
   /* 8px /10 */
-/*  background-color: var(--red);*/
+  /*  background-color: var(--red);*/
   color: var(--white);
-/*  border-radius: 0.25em;*/
+  /*  border-radius: 0.25em;*/
   /* 3px /12 */
   text-decoration: none;
 }
