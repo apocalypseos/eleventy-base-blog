@@ -16,13 +16,6 @@
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
       <h5 class="description">{{ metadata.description }}</h5>
       </div>
-
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav">
-      {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-      {%- endfor %}
-      </ul>
     </header>
       <div class="wrapper">
     <aside>
@@ -40,9 +33,17 @@
 </div>
     <footer>
     <ul>
-    <li><h3>Heading</h3></li>
+    <li><h3>Heading</h3>
+    
+      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+      <ul class="nav">
+      {%- for entry in collections.all | eleventyNavigation %}
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+      {%- endfor %}
+      </ul></li>
     <li><h3>Heading</h3></li>
     <li><h3>Heading</h3></li></ul>
+    <p><a href="#top">Top</a></p>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->
