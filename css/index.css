@@ -59,6 +59,10 @@ h6 {
   color: var(--yellow);
 }
 
+h1.home {
+  color: black;
+}
+
 h1,
 h2,
 h3,
@@ -185,7 +189,6 @@ header {
     #cf3a00 0%,
     #eb3714 50%,
     #830400 100%);
-  border-bottom: 1px dashed var(--lightgray);
 }
 
 header:after {

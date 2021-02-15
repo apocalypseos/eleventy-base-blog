@@ -45,7 +45,8 @@
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
       </ul></li>
-    <li><h3>Heading</h3></li>
+    <li><h3>Heading</h3>
+    <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p></li>
     <li><h3>Heading</h3></li></ul>
     <p><a href="#top">Top</a></p>
     </footer>
