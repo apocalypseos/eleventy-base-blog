@@ -95,6 +95,10 @@ small,
   font-size: 0.75rem;
 }
 
+.list-item {
+  margin-bottom: 1em;
+}
+
 p:last-child {
   margin-bottom: 0;
 }
@@ -109,6 +113,7 @@ img {
 p,
 .tmpl-post li {
   line-height: 1.45;
+  margin-bottom: 1em;
 }
 
 a[href] {

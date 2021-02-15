@@ -1,9 +1,9 @@
 ---
 title: Why Victoria Nuland Is Dangerous And Should Not Be Confirmed
-description: Victoria Nuland has promoted a foreign policy of intervention through coups, proxy wars, aggression, and ongoing occupations. The policy has been implemented with bloody and disastrous results in Afghanistan, Iraq, Libya, Syria, and Ukraine. Now Victoria Nuland wants to provoke, threaten and &ldquo;rollback&rdquo; Russia.
+description: Victoria Nuland has promoted a foreign policy of intervention through coups, proxy wars, aggression, and ongoing occupations. The policy has been implemented with bloody and disastrous results in Afghanistan, Iraq, Libya, Syria, and Ukraine. Now Victoria Nuland wants to provoke, threaten and “rollback” Russia.
 date: 2021-02-15
 tags:
-  - oriental-review
+  - Oriental Review
 layout: layouts/post.njk
 ---
 
@@ -13,7 +13,8 @@ Victoria Nuland exemplifies the neocons who have led US foreign policy from one 
 
 As a top-level appointee, Victoria Nuland must be confirmed by the US Senate.  There is a campaign to Stop her confirmation. The following review of her work shows why Victoria Nuland is incompetent, highly dangerous and should not be confirmed.
 
-##Afghanistan and Iraq
+## Afghanistan and Iraq
+
 From 2000 to 2003, Nuland was US permanent representative to NATO as the Bush administration attacked then invaded Afghanistan. The Afghan government offered to work with the US remove Al Qaeda, but this was rejected. After Al Qaeda was defeated, the US could have left Afghanistan but instead stayed, established semi-permanent bases, split the country, and is still fighting there two decades later.
 
 From 2003 to 2005 Nuland was principal foreign policy advisor to Vice President Dick Cheney who “helped plan and manage the war that toppled Saddam Hussein, including making Bush administration’s case for preemptive military actions based on Iraq’s alleged weapons of mass destruction.” The foreign policy establishment, with Nuland on the far right, believed that removing Saddam Hussein and installing a US “ally” would be simple.
@@ -26,7 +27,8 @@ On the 10th anniversary of the invasion, when asked about the lessons learned Nu
 
 In January 2020, seventeen years after the US invasion,  the Iraqi parliament passed a resolution demanding the US troops and contractors leave.  Now, over one year later, they still have not left.
 
-##Libya
+## Libya
+
 In spring 2011, Victoria Nuland became State Department spokesperson under Hillary Clinton as she ramped up the “regime change” assault on Moammar Ghaddafi of Libya. UN Security Council resolution 1973 authorized a “No Fly Zone” for the protection of civilians but NOT an air assault on Libyan government forces.
 
 That summer, as US and others bombed and attacked Libyan forces, she dismissed the option of a peaceful transition in Libya and falsely suggested the UN Security Council required the removal of Ghaddafi.
@@ -35,14 +37,15 @@ The campaign led to the toppling of the Libyan government and killing of Ghadaff
 
 Before the overthrow, Libya had the highest standard of living in all of Africa. Since the US led assault, Libya has become a failed state with competing warlords, huge inflation, huge unemployment, and exploding extremism and violence that has spread to neighboring countries. Most of the migrants who have crossed the Mediterranean trying to reach Europe, or drowned trying to, are coming from Libya. By any measure, the goal of “protecting” Libyan civilians has failed spectacularly.
 
-##Syria
+## Syria
 One reason that Clinton and hawks such as Nuland wanted to overthrow Ghaddafi was to get access to the Libyan military arsenal. That way they could funnel arms to insurgents seeking to overthrow the Syrian government. This was confirmed in secret DOD documents which state: “During the immediate aftermath of, and following the uncertainty caused by, the downfall of the ((Qaddafi)) regime in October 2011 and up until early September of 2012, weapons from the former Libya military stockpiles located in Benghazi, Libya were shipped from the port of Benghazi, Libya to the ports of Banias and the Port of Borj Islam, Syria”
 
 In January 2012, Nuland claimed the US is “on the side of those wanting peaceful change in Syria.” While saying this, the US was supplying sniper rifles, rocket propelled grenades, and 125 mm and 155 mm howitzer missiles to the “peaceful” protestors.
 
 The US “regime change” strategy for Syria followed the pattern of Libya. First, claim that the protestors are peaceful. Then claim the government response is disproportionate. Put pressure on the target government to paralyze it, while increasing support to proxy protesters and terrorists. As documented, there were violent Syrian protesters from the start. During the first days of protest in Deraa in mid-March 2011, seven police were killed. As spokesperson for the State Department, Nuland was a major figure promoting the false narrative to justify the “regime change” campaign.
 
-##Ukraine
+## Ukraine
+
 In September 2013 Victoria Nuland was appointed Assistant Secretary of State for European and Eurasian Affairs. The uprising in the central plaza known as the Maidan began soon after her arrival. To underscore the US support for the protests, Nuland and Senator John McCain passed out bread and cookies to the crowd.
 
 Protests continued into January 2014. The immediate issue was whether to accept a loan from the International Monetary Fund which was going to require a 40% increase in natural gas bills or to accept a loan from Russia with the inclusion of cheap oil and gas. The opposition wanted the Yanukovych government to take the EU/IMF loan. The opposition was comprised of different factions, including the neo-Nazi Svoboda Party and Right Sector.
@@ -73,7 +76,8 @@ The audio recording confirms that Nuland was managing the protests at a top leve
 
 Why were snipers deployed on February 18? Probably because time was running out. The Russian leadership was distracted with the Sochi Olympic Games ending on February 23. Perhaps the coup managers were in a hurry to “glue” it in advance.
 
-##Russia
+## Russia
+
 During the 1990’s, Nuland worked for the State Department on Russia related issues including a stint as deputy director for former Soviet Union affairs. The US meddled in Russian internal affairs in myriad ways. Time magazine proudly proclaimed “Yanks to the rescue: the secret story of how American advisors helped Yeltsin win.”  The Yeltsin leadership and policies pushed by the US had disastrous consequences. Between 1991 and 1999, Russian Gross Domestic Product decreased by nearly 50% as the social safety net was removed. The Russian economy collapsed, oligarchs and lawlessness arose. Nuland was part of the US group meddling in Russia, deploying economic “shock therapy” and causing widespread social despair.
 
 Meanwhile, the U.S. reneged on promises to Soviet leader Gorbachev that NATO would not expand “one inch” eastward. Instead, NATO became an offensive pact, bombing Yugoslavia in violation of international law and then absorbing Poland, Hungary, Bulgaria, Romania, the Baltic states, the Czech Republic, Albania, Croatia and more.
@@ -88,7 +92,8 @@ While promoting disinformation, Victoria Nuland is pushing for a more aggressive
 
 The major “hot spots” are the conflicts which Victoria Nuland and other Washington neocons promoted, especially Syria and Ukraine. In Syria, the US and allies have spent hundreds of BILLIONS of dollars promoting the overthrow of the Assad government. So far, they have failed but have not given up. The facts are clear: US troops and military bases in Syria do not have the authorization of the Syrian government.  They are actively stealing the precious oil resources of the Syrian state. It is the US not Russia that is “encroaching”. The dangerous behavior is by Washington not Moscow.
 
-##Conclusion
+## Conclusion
+
 Victoria Nuland has promoted a foreign policy of intervention through coups, proxy wars, aggression, and ongoing occupations. The policy has been implemented with bloody and disastrous results in Afghanistan, Iraq, Libya, Syria, and Ukraine.
 
 With consummate hypocrisy she accuses Russia of spreading misinformation in the US, while she openly seeks to put “stress on Putin where he is vulnerable, including among his own citizens.”  She wants to “establish permanent bases along NATO’s eastern border and increase the pace and visibility of joint training exercises.”
