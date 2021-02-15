@@ -1,11 +1,13 @@
 ---
 title: Why Victoria Nuland Is Dangerous And Should Not Be Confirmed
 description: Victoria Nuland has promoted a foreign policy of intervention through coups, proxy wars, aggression, and ongoing occupations. The policy has been implemented with bloody and disastrous results in Afghanistan, Iraq, Libya, Syria, and Ukraine. Now Victoria Nuland wants to provoke, threaten and &ldquo;rollback&rdquo; Russia.
-date: 2018-05-01
+date: 2021-02-15
 tags:
-  - another-tag
+  - oriental-review
 layout: layouts/post.njk
 ---
+
+Written by Rick STERLING on 11/02/2021
 
 Victoria Nuland exemplifies the neocons who have led US foreign policy from one disaster to another for the past 30 years while evading accountability. It is a bad sign that President Joe Biden has nominated Victoria Nuland for the third highest position at the State Department, Under Secretary for Political Affairs.
 
