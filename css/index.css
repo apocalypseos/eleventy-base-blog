@@ -135,14 +135,16 @@ footer {
 }
 
 aside {
-  width: 40vw;
+  width: 30vw;
   height: auto;
   background: #333;
+  position: sticky;
+  top: 20vh;
 
 }
 
 main {
-  width: 60vw;
+  width: 70vw;
   min-height: 800vh;
 
 }
