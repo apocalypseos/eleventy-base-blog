@@ -122,7 +122,7 @@ a[href]:visited {
 .wrapper {
   display: flex;
   justify-content: space-between;
-  flex-direction: column;
+  flex-direction: row;
 
 
 }
@@ -137,7 +137,7 @@ footer {
 aside {
   width: 40vw;
   height: auto;
-  color: white;
+  background: #333;
 
 }
 
@@ -265,10 +265,15 @@ pre {
   margin-bottom: 0.25em;
 }
 
+.home:hover {
+  text-decoration: none;
+}
+
 .description {
   font-size: 3em;
   font-family: 'Suez One', serif;
   margin-bottom: 0.25em;
+  color: white;
 }
 
 .home :link:not(:hover) {
@@ -309,6 +314,15 @@ pre {
 .postlist-item {
   counter-increment: start-from -1;
 }
+
+.post-title {
+  background: #ccc;
+}
+
+.post-description {
+  background: #f5f5f5;
+}
+
 
 /* Removed number on post */
 
